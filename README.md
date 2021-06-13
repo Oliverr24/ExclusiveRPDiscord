@@ -9,6 +9,9 @@
 #
 #If used, and additions wanted, please put it as an issue.
 #
+#Invite: https://discord.com/api/oauth2/authorize?client_id=851097529495715890&permissions=8&scope=bot - Full admin
+#Invite: https://discord.com/api/oauth2/authorize?client_id=851097529495715890&permissions=3072&scope=bot - Just view channels and send messages
+#
 #Regards,
 #
 #Arc
